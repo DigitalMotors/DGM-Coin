@@ -1,0 +1,9 @@
+Building DigitalMotors
+
+See doc/readme-qt.rst for instructions on building DigitalMotors-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DigitalMotors.
+
+See doc/build-*.txt for instructions on building DigitalMotorsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of DigitalMotors.
